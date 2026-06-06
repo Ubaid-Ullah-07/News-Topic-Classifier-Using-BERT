@@ -183,5 +183,7 @@ Key strengths:
 ---
 
 ## Author
+**Ubaid Ullah** AI/ML Engineering Intern — DevelopersHub Corporation
+
 
 Developed as an NLP text-classification project using Hugging Face Transformers and BERT.
